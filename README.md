@@ -1,5 +1,10 @@
 ## Salut 👋
 
+- 💬 Ask me about Agile
+- 🌱 I’m currently learning Swift/SwiftUI/iOS Development
+- ⚡ Fun fact: Don't educate yourself to be rich. Educate yourself to be happy 🚀
+
+
 <!--
 **adrianaringhe/adrianaringhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
